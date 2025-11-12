@@ -1,10 +1,5 @@
 # CastX: Cohort-Level Causal Inference Meets Statistical Testing for Faithful and Reliable GNN Explanations
 
-**Authors:** Guanyuan Yu, Yijun Chen, Liang Xu*, Gang Kou  
-**Affiliation:** Southwestern University of Finance and Economics  
-**Paper:** Accepted to AAAI 2026  
-
----
 
 ## 🧩 Overview
 
